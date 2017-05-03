@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "bmkiefer_mega_lotto"
   spec.version       = BmkieferMegaLotto::VERSION
   spec.authors       = ["Brandon Kiefer"]
-  spec.email         = ["brandon@teamspectator.com"]
+  spec.email         = ["bkiefer88@gmail.com"]
 
   spec.summary       = %q{Testing Out How to Release to Ruby Gems}
   spec.description   = %q{Testing Out How to Release to Ruby Gems.}
