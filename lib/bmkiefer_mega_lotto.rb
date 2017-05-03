@@ -1,4 +1,5 @@
 require "bmkiefer_mega_lotto/version"
+require "bmkiefer_mega_lotto/drawing"
 
 begin
   require "pry"
