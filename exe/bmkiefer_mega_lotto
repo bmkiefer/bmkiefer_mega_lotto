@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/bmkiefer_mega_lotto/drawing"
+drawing = BmkieferMegaLotto::Drawing.new.draw
+puts drawing
