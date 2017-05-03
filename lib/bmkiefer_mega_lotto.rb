@@ -7,4 +7,6 @@ rescue LoadError
 end
 
 module BmkieferMegaLotto
+  def self.configure
+  end
 end
